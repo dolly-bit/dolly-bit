@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dolly</h1>
 <h3 align="center">I am a Data Science enthusiast with hands-on experience in data analysis, visualization, and machine learning. Currently, I am expanding my skills in Deep Learning to build advanced AI-driven solutions. I am passionate about solving real-world problems using data and continuously improving my technical expertise.</h3>
-<img align=<h1 align="center">Hi 👋, I'm Dolly</h1>
-<h3 align="center">I am a Data Science enthusiast with hands-on experience in data analysis, visualization, and machine learning. Currently, I am expanding my skills in Deep Learning to build advanced AI-driven solutions. I am passionate about solving real-world problems using data and continuously improving my technical expertise.</h3>
+
 
 - 🔭 I’m currently working on **Data Analysis & Visualization using Python (Pandas, NumPy, Matplotlib, Seaborn) - Machine Learning Projects**
 
