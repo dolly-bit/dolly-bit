@@ -2,7 +2,7 @@
 <h3 align="left">Data Science enthusiast <br>With hands-on experience in data analysis and visualization. <br> Interested in Machine Learning and Deep Learning. </h3>
 
 
-- 🔭 I’m currently working on **Data Analysis & Visualization using Python (Pandas, NumPy, Matplotlib, Seaborn) - Machine Learning Projects**
+- 🔭 I’m currently working on **Data Analysis & Visualization using Python (Pandas, NumPy, Matplotlib, Seaborn)**
 
 - 🌱 I’m currently learning **Data Science**
 
