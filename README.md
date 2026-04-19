@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dolly</h1>
 <h3 align="left">Data Science enthusiast <br>With hands-on experience in data analysis and visualization. <br> Interested in Machine Learning and Deep Learning. </h3>
 
-<img align="right" alt="coding" width="400" src=["https://bunnyslippers.com/blogs/hop-to-pop/best-32-rabbit-gifs](https://cdn.shopify.com/s/files/1/0971/5748/0731/files/imported_95e707c6-c9bb-4109-bf3c-fd592550dce2.gif?v=1760820678)"/>
 
 
 - 🔭 I’m currently working on **Data Analysis & Visualization using Python (Pandas, NumPy, Matplotlib, Seaborn)**
