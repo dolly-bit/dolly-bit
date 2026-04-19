@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dolly</h1>
 <h3 align="left">Data Science enthusiast <br>With hands-on experience in data analysis and visualization. <br> Interested in Machine Learning and Deep Learning. </h3>
-<img align="right" alt="coding" width="400" src="second-scholarship-winner.html"/>
+
 
 - 🔭 I’m currently working on **Data Analysis & Visualization using Python (Pandas, NumPy, Matplotlib, Seaborn)**
 
