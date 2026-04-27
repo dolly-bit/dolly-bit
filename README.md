@@ -1,22 +1,80 @@
-<h1 align="center">Hi 👋, I'm Dolly</h1>
-<h3 align="left">Data Science enthusiast <br>With hands-on experience in data analysis and visualization. <br> Interested in Machine Learning and Deep Learning. </h3>
+# <p align="center">🌌 Welcome to Dolly's Digital Balcony 🌌</p>
 
-
-
-- 🔭 I’m currently working on **Data Analysis & Visualization using Python (Pandas, NumPy, Matplotlib, Seaborn)**
-
-- 🌱 I’m currently learning **Data Science**
-
-- 📫 How to reach me **dolly12704@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p>
-<a href="https://linkedin.com/in/dolly-kumari" target="blank" style="display:inline-block;" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dolly-kumari" height="30" width="40" /></a>
-<a href="https://instagram.com/dolly._.06" target="blank" style="display:inline-block;" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dolly._.06" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FDF1D1&center=true&vCenter=true&width=500&lines=Data+Science+Enthusiast;Full-Stack+Developer;Building+with+the+MERN+Stack" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" style="display:inline-block;" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" style="display:inline-block;" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"/>
+</p>
+
+---
+
+### 📝 LOG_ENTRY: SYSTEM_OVERVIEW
+
+<table align="center" width="100%">
+  <tr style="border: none;">
+    <td width="60%" style="border-right: 1px solid #444; padding: 20px;">
+
+**「 THE_DEVELOPER 」**
+* **User:** Dolly
+* **Focus:** Data Science & Web Architecture
+* **Vibe:** Lofi / Deep Work / Midnight Coding
+* **Status:** Air Wing NCC Cadet | Head of Empirical Society
+
+**「 CURRENT_PROJECTS 」**
+* 🌿 **EcoCode:** Environmental health dashboard.
+* ⏳ **Pause-Distraction:** Mindful browsing extension.
+* 📊 **ResumeFlow AI:** ATS-optimized resume analyzer.
+
+    </td>
+
+<td width="40%" align="center" valign="middle">
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="210" alt="Lofi Rabbit Aesthetic" />
+  <br />
+  <kbd> SYSTEM_ONLINE </kbd>
+</td>
+  </tr>
+</table>
+
+---
+
+### 🛠 ARSENAL // TECH_STACK
+
+#### 🌟 Data Science & Machine Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-FDF1D1?style=for-the-badge&logo=python&logoColor=241B2F" />
+  <img src="https://img.shields.io/badge/Pandas-EBD6B2?style=for-the-badge&logo=pandas&logoColor=241B2F" />
+  <img src="https://img.shields.io/badge/PyTorch-FDF1D1?style=for-the-badge&logo=pytorch&logoColor=241B2F" />
+  <img src="https://img.shields.io/badge/TensorFlow-EBD6B2?style=for-the-badge&logo=tensorflow&logoColor=241B2F" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-FDF1D1?style=for-the-badge&logo=scikit-learn&logoColor=241B2F" />
+</p>
+
+#### 💻 Development & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/React-241B2F?style=for-the-badge&logo=react&logoColor=FDF1D1" />
+  <img src="https://img.shields.io/badge/Node.js-EBD6B2?style=for-the-badge&logo=nodedotjs&logoColor=241B2F" />
+  <img src="https://img.shields.io/badge/Tailwind-FDF1D1?style=for-the-badge&logo=tailwindcss&logoColor=241B2F" />
+  <img src="https://img.shields.io/badge/Docker-241B2F?style=for-the-badge&logo=docker&logoColor=FDF1D1" />
+  <img src="https://img.shields.io/badge/Git-EBD6B2?style=for-the-badge&logo=git&logoColor=241B2F" />
+</p>
+
+---
+
+### 📡 CONNECT_WITH_ME
+<p align="center">
+<a href="https://linkedin.com/in/dolly-kumari"><img src="https://img.shields.io/badge/LINKEDIN-FDF1D1?style=for-the-badge&logo=linkedin&logoColor=241B2F" /></a>
+<a href="mailto:dolly12704@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EBD6B2?style=for-the-badge&logo=gmail&logoColor=241B2F" /></a>
+<a href="https://instagram.com/dolly._.06"><img src="https://img.shields.io/badge/INSTAGRAM-FDF1D1?style=for-the-badge&logo=instagram&logoColor=241B2F" /></a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dolly-bit&show_icons=true&bg_color=241B2F&title_color=FDF1D1&text_color=EBD6B2&hide_border=true" alt="Dolly's Stats" />
+</p>
+
+<p align="center">
+  <i>"Indomitable human spirit." 🚀</i>
+</p>
 
 <!---
 dolly-bit/dolly-bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
