@@ -18,7 +18,7 @@
 
 **「 THE_DEVELOPER 」**
 * **User:** Dolly
-* **Focus:** Data Science & Web Architecture
+* **Focus:** Data Science & Machine Learning 
 * **Vibe:** Lofi / Deep Work / Midnight Coding
 * **Status:** Air Wing NCC Cadet | Head of Empirical Society
 
